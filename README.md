@@ -4,7 +4,7 @@
 **Assignment:** Gradient Descent Optimization Using Calculus
 **Group:** Group 1
 
-No.  Name (Registration Number)
+GROUP MEMBERS
 1. KISAMBU SHARIF (26/U/ITD/1500/GV)
 2. IKIRIA ANGEL GENEVIEVE(26/U/ITE/13249/PE)
 3. BAMUWAMYE MELVIN TREVOR (26/U/ITD/1497/GV)
